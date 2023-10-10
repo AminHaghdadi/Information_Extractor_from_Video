@@ -1,0 +1,6 @@
+openai
+subprocess
+aiofiles
+fastapi
+whisper
+uvicorn
